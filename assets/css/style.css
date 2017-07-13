@@ -1,0 +1,56 @@
+.para{
+	font-size: 20px;
+	line-height: 30px;
+	text-align: justify;
+}
+
+.sub{
+	position: relative; 
+	margin-left: 50px;
+}
+
+.titles{
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.head{
+	position: relative;
+	width: 250px;
+	height: auto;
+	border-bottom-right-radius: 100%;
+	background: linear-gradient(60deg, #701706, #722424);
+	color: #fff;
+}
+
+.history-para{
+	position: relative;
+	margin-left: 50px;
+	margin-right: 50px;
+	text-align: justify;
+}
+
+.image{
+	width: 500px;
+	height: 400px;
+}
+
+.image-description{
+	position: relative;
+	margin-left: 50px;
+	font-size: 18px;
+	background: linear-gradient(60deg, #701706, #722424);
+	width: 400px;
+	height: 100px;
+	text-align: center;
+	color: #fff;
+	border-bottom-left-radius: 5%;
+	border-bottom-right-radius:  5%;
+}
+
+.social{
+	position: relative;
+	text-align: center;
+	right: 50px;
+}
+
